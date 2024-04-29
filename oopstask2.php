@@ -22,7 +22,6 @@ class Calculator {
         }
     }
 }
-
 $calculator = new Calculator();
 
 echo "Addition: of 5 and 3 = " . $calculator->add(5, 3) . "<br>";
